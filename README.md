@@ -4,7 +4,7 @@ The code in this repository is released under Creative Commons Attribution 4.0 I
 
 The code is related to the following journal publication:
 Benchmarking the acceleration of materials discovery by sequential learning
-Santosh S Suram, Brian Rohr, Helge S Stein, Dan Guevarra, Yu Wang, Joel A Haber, Muratahan Aykol and John Gregoire
+Brian Rohr, Helge S Stein, Dan Guevarra, Yu Wang, Joel A Haber, Muratahan Aykol, Santosh K Suram, and John Gregoire
 Chem. Sci., 2020
 https://doi.org/10.1039/C9SC05999G
 
